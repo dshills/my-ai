@@ -1,3 +1,3 @@
-module github.com/dshills/goai
+module github.com/dshills/my-ai
 
 go 1.21.4

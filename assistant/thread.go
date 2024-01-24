@@ -4,7 +4,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dshills/goai/api"
+	"github.com/dshills/my-ai/api"
 )
 
 type Thread interface {

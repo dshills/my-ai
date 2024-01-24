@@ -4,7 +4,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/dshills/goai/api"
+	"github.com/dshills/my-ai/api"
 )
 
 type contentList []api.MessageResponse

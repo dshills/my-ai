@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/dshills/goai/api"
+	"github.com/dshills/my-ai/api"
 )
 
 type Assistant interface {

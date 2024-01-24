@@ -5,11 +5,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dshills/goai/assistant"
-	"github.com/dshills/goai/config"
+	"github.com/dshills/my-ai/assistant"
+	"github.com/dshills/my-ai/config"
 )
 
-const defConfig = ".goai.conf"
+const defConfig = ".my-ai.conf"
 
 func main() {
 	var err error
